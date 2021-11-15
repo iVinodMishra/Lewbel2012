@@ -1,0 +1,46 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3600\clbrdrt\brdrs\cellx5328\clbrdrt\brdrs\cellx7056\clbrdrt\brdrs\cellx8784
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3600\cellx5328\cellx7056\cellx8784
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5328\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx8784
+\ql VARIABLES\cell\qc lnhwage\cell\qc lnhwage\cell\qc lnhwage\cell\qc lnhwage\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3600\cellx5328\cellx7056\cellx8784
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql c7\cell\qc 0.114***\cell\qc 0.114***\cell\qc 0.109***\cell\qc 0.109***\cell\row
+\ql \cell\qc (5.171)\cell\qc (5.171)\cell\qc (5.844)\cell\qc (5.967)\cell\row
+\ql exp\cell\qc 0.0626***\cell\qc 0.0626***\cell\qc 0.0665***\cell\qc 0.0665***\cell\row
+\ql \cell\qc (7.096)\cell\qc (7.096)\cell\qc (6.924)\cell\qc (6.964)\cell\row
+\ql exp2\cell\qc -0.00133***\cell\qc -0.00133***\cell\qc -0.00145***\cell\qc -0.00145***\cell\row
+\ql \cell\qc (-6.584)\cell\qc (-6.584)\cell\qc (-6.132)\cell\qc (-6.191)\cell\row
+\ql gender\cell\qc 0.0314\cell\qc 0.0314\cell\qc 0.0319\cell\qc 0.0319\cell\row
+\ql \cell\qc (0.895)\cell\qc (0.895)\cell\qc (0.925)\cell\qc (0.927)\cell\row
+\ql marital\cell\qc 0.0578\cell\qc 0.0578\cell\qc 0.0582\cell\qc 0.0582\cell\row
+\ql \cell\qc (1.109)\cell\qc (1.109)\cell\qc (1.291)\cell\qc (1.293)\cell\row
+\ql lang\cell\qc 0.0117\cell\qc 0.0117\cell\qc 0.00799\cell\qc 0.00799\cell\row
+\ql \cell\qc (0.686)\cell\qc (0.686)\cell\qc (0.463)\cell\qc (0.464)\cell\row
+\ql SecDum1\cell\qc -0.00129\cell\qc -0.00129\cell\qc -0.0261\cell\qc -0.0261\cell\row
+\ql \cell\qc (-0.0122)\cell\qc (-0.0122)\cell\qc (-0.257)\cell\qc (-0.255)\cell\row
+\ql SecDum2\cell\qc 0.0565\cell\qc 0.0565\cell\qc 0.0236\cell\qc 0.0236\cell\row
+\ql \cell\qc (0.795)\cell\qc (0.795)\cell\qc (0.337)\cell\qc (0.338)\cell\row
+\ql SecDum3\cell\qc -0.0917*\cell\qc -0.0917*\cell\qc -0.109*\cell\qc -0.109*\cell\row
+\ql \cell\qc (-1.767)\cell\qc (-1.767)\cell\qc (-1.936)\cell\qc (-1.943)\cell\row
+\ql Owndum1\cell\qc 0.184***\cell\qc 0.184***\cell\qc 0.191***\cell\qc 0.191***\cell\row
+\ql \cell\qc (3.665)\cell\qc (3.665)\cell\qc (3.551)\cell\qc (3.564)\cell\row
+\ql Owndum2\cell\qc -0.00587\cell\qc -0.00587\cell\qc 0.000128\cell\qc 0.000128\cell\row
+\ql \cell\qc (-0.0967)\cell\qc (-0.0967)\cell\qc (0.00184)\cell\qc (0.00185)\cell\row
+\ql Owndum3\cell\qc 0.239***\cell\qc 0.239***\cell\qc 0.238***\cell\qc 0.238***\cell\row
+\ql \cell\qc (3.915)\cell\qc (3.915)\cell\qc (3.972)\cell\qc (3.971)\cell\row
+\ql Owndum4\cell\qc 0.0858\cell\qc 0.0858\cell\qc 0.0900\cell\qc 0.0900\cell\row
+\ql \cell\qc (1.362)\cell\qc (1.362)\cell\qc (1.352)\cell\qc (1.356)\cell\row
+\ql dalian\cell\qc 0.746***\cell\qc 0.746***\cell\qc 0.762***\cell\qc 0.762***\cell\row
+\ql \cell\qc (16.01)\cell\qc (16.01)\cell\qc (16.81)\cell\qc (16.89)\cell\row
+\ql Constant\cell\qc -0.106\cell\qc -0.106\cell\qc -0.0376\cell\qc -0.0376\cell\row
+\ql \cell\qc (-0.320)\cell\qc (-0.320)\cell\qc (-0.129)\cell\qc (-0.132)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 783\cell\qc 783\cell\qc 783\cell\qc 783\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5328\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx8784
+\ql R-squared\cell\qc 0.497\cell\qc 0.497\cell\qc 0.497\cell\qc 0.497\cell\row
+\pard\qc
+z-statistics in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
